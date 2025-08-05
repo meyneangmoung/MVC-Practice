@@ -6,3 +6,4 @@ public class Main {
         view.displayAllCustomers();
     }
 }
+//splite code(patter)
